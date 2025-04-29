@@ -27,16 +27,16 @@ The thesis explores the challenges of forecasting due to the non-stationary and 
 ## Repository Structure
 This repository is organized into three main folders:
 
-- **1_Thesis_Documents/**  
+- **1 Thesis_Documents/**  
   Contains the following:
   - Final Thesis Paper
   - PowerPoint Presentation (Defense Slides)
   - Conference Paper (Submitted to IEEE SMC 2025)
 
-- **2_Dataset/**  
+- **2 Dataset/**  
   Includes the dataset used for training and evaluation during the thesis experiments.
 
-- **3_Code_Experiments/**  
+- **3 Code_Experiments/**  
   Contains all scripts related to:
   - Data preprocessing
   - CEEMDAN and EWT decomposition
